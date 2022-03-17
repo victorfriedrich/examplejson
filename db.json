@@ -2,6 +2,7 @@
 	"apps": [{
 		"id": 1,
 		"content": [{
+			"id": 0,
 			"title": "hello",
 			"text": "text"
 		}],
