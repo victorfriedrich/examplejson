@@ -1,0 +1,16 @@
+{
+	"apps": [{
+		"content": [{
+			"title": "hello",
+			"text": "text"
+		}],
+		"votes": {
+			"up": [12, 2],
+			"down": [3, 13]
+		},
+		"comments": [{
+			"user": 12,
+			"text": "Comment"
+		}]
+	}]
+}
